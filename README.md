@@ -81,6 +81,16 @@ Even two processors with the same model number can behave differently.
 
 This project aims to cover supported desktop Ryzen platforms generally rather than prescribe one configuration for every CPU. Exact feature availability varies by processor generation, motherboard, BIOS/AGESA version, and OEM restrictions.
 
+## ☕ Support This Guide
+
+If this guide helped you tune or better understand your Ryzen system, you can support the project here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20DeshaunDoesTech-yellow?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/DeshaunDoesTech)
+
+**[Buy Me a Coffee →](https://buymeacoffee.com/DeshaunDoesTech)**
+
+Support is completely optional and helps with maintaining and expanding the guide.
+
 ## Disclaimer
 
 This is an independent community guide and is not affiliated with or endorsed by AMD or any motherboard manufacturer. CPU tuning can cause instability, lost work, reduced performance, or other problems if configured incorrectly. Understand the controls and keep a recovery path before changing firmware settings.
