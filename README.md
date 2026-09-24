@@ -70,6 +70,7 @@ Even two processors with the same model number can behave differently.
 - [Curve Optimizer](docs/curve-optimizer.md)
 - [Stability Testing](docs/stability-testing.md)
 - [Troubleshooting](docs/troubleshooting.md)
+- [Frequently Asked Questions](docs/faq.md)
 
 ### Motherboard BIOS guides
 - [ASUS](docs/motherboard-guides/asus.md)
