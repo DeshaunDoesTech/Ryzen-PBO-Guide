@@ -78,6 +78,25 @@ Even two processors with the same model number can behave differently.
 - [Gigabyte](docs/motherboard-guides/gigabyte.md)
 - [ASRock](docs/motherboard-guides/asrock.md)
 
+## Frequently Asked Questions
+
+### What is Precision Boost Overdrive (PBO)?
+PBO is an AMD Ryzen feature that works with the processor's automatic boost behavior. On supported systems, it can expand the operating limits available to the boost algorithm rather than setting a fixed CPU clock.
+
+### Does my Ryzen CPU support PBO?
+Support depends on the exact processor, motherboard, BIOS/AGESA version, and sometimes the system manufacturer. Check the [Compatibility Guide](docs/compatibility.md) before changing settings.
+
+### What are PPT, TDC, and EDC?
+**PPT** relates to processor/socket power, **TDC** to sustained current, and **EDC** to shorter-duration peak current. Raising these limits does not automatically improve performance. See [PPT, TDC & EDC](docs/power-limits.md).
+
+### What is Curve Optimizer?
+Curve Optimizer modifies the voltage/frequency curve used by supported Ryzen processors. Negative values may improve efficiency or boost headroom, but values that are too aggressive can cause instability. See the [Curve Optimizer Guide](docs/curve-optimizer.md).
+
+### Can I copy someone else's Curve Optimizer settings?
+You can use them as a reference, but you should not assume they will be stable on your CPU. Even processors with the same model number can behave differently, so every configuration should be tested individually.
+
+**Have another question?** Read the full [Frequently Asked Questions](docs/faq.md) page.
+
 ## Scope
 
 This project aims to cover supported desktop Ryzen platforms generally rather than prescribe one configuration for every CPU. Exact feature availability varies by processor generation, motherboard, BIOS/AGESA version, and OEM restrictions.
